@@ -2,6 +2,8 @@
 
 ### :fire: My Stats :
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgtlmonk&count_private=true&&hide=stars,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dgtlmonk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgtlmonk)](https://github.com/anuraghazra/github-readme-stats)

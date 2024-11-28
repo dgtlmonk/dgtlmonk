@@ -25,16 +25,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Frontend Frameworks
+### :rocket: Frontend Frameworks
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-<img width="130" alt="image" src="https://github.com/user-attachments/assets/f1a0ca39-2dc9-4580-bb05-90527c341da5">
+ <img width="130" alt="image" src="https://github.com/user-attachments/assets/f1a0ca39-2dc9-4580-bb05-90527c341da5">&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
 
 </div>
 
-### ORM
+### :wrench: ORM
 <div>
   <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" title="Drizzle ORM" alt="Drizzle ORM" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/17219288?s=48&v=4" title="Prisma ORM" alt="Prisma ORM" width="40" height="40"/>&nbsp;
  
+</div>
+
+### :card_file_box: Database
+<div> 
+  <img  style="height: 2rem;" src="https://docs.convex.dev/img/convex-light.svg" title="Drizzle ORM" alt="Drizzle ORM" />&nbsp;
+ <img  style="height: 2rem;" src="https://www.postgresql.org/media/img/about/press/elephant.png" title="Drizzle ORM" alt="Drizzle ORM" />&nbsp;
 </div>

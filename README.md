@@ -35,6 +35,6 @@
 ### ORM
 <div>
   <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" title="Drizzle ORM" alt="Drizzle ORM" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4]" title="Prisma ORM" alt="Prisma ORM" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/17219288?s=48&v=4" title="Prisma ORM" alt="Prisma ORM" width="40" height="40"/>&nbsp;
  
 </div>

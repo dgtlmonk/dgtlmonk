@@ -24,3 +24,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### Frontend Frameworks
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img width="130" alt="image" src="https://github.com/user-attachments/assets/f1a0ca39-2dc9-4580-bb05-90527c341da5">
+
+</div>
+
+### ORM
+<div>
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" title="Drizzle ORM" alt="Drizzle ORM" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4]" title="Prisma ORM" alt="Prisma ORM" width="40" height="40"/>&nbsp;
+ 
+</div>
